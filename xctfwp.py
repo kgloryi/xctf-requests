@@ -1,7 +1,7 @@
 import requests
 import re,os
 
-url = 'https://www.xctf.org.cn/library/all/Writeup/?page=3'
+url = 'https://www.xctf.org.cn/library/all/Writeup/?page=3' #xctf的writeup地址
 
 biaoti = '<p style="margin-top:-2px">正则</p>'
 
